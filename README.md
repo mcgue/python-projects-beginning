@@ -1,2 +1,2 @@
 ### python-projects-beginning
-#### Files with beginner projects
+#### Files of beginner projects
