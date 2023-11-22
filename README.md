@@ -1,3 +1,3 @@
 # python-projects-beginning
-## Two beginner projects
-###  Status: Complete
+Two beginner projects<br>
+Status: complete
